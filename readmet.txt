@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 bug102
+=======
+fix for stash
+>>>>>>> Stashed changes
 fourth for branch swtich
 third for branch
 second
